@@ -1,0 +1,10 @@
+datasets
+evaluate
+faiss
+nltk
+numpy
+scikit-learn
+sentence-transformers
+spacy
+torch
+transformers
